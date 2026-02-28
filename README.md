@@ -31,4 +31,4 @@ node server.js
 
 ### API Documentation
 Interactive API documentation is available at:
-`http://localhost:3000/api-docs`
+`https://url-shortener-a2b2c2.onrender.com/api-docs`
